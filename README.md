@@ -8,15 +8,7 @@
 
 ###
 
-<p align="left">
-  👨‍💻 I'm a <strong>Fullstack Developer</strong><br><br>
-  I'm currently focused on building practical and real-world skills in <strong>fullstack development</strong> using:<br><br>
-  - ⚙️ <strong>Laravel</strong> for building robust and scalable backend APIs  <br>
-  - 🌐 <strong>Svelte</strong> (and occasionally React) for fast and modern frontend web applications  <br>
-  - 📱 <strong>Flutter</strong> for developing cross-platform mobile apps with a native feel  <br><br>
-  I'm a big fan of <strong>Gintama</strong> — yes, the anime that's equal parts nonsense and deep life lessons. If you know, you know.<br><br>
-  Feel free to explore my pinned projects, and don’t hesitate to reach out if you'd like to collaborate or just say hello!
-</p>
+<p align="left">👨‍💻 I'm a Fullstack Developer<br><br>I'm currently focused on building practical and real-world skills in **fullstack development** using:<br><br>- ⚙️ **Laravel** for building robust and scalable backend APIs  <br>- 🌐 **Svelte** (and occasionally React) for fast and modern frontend web applications  <br>- 📱 **Flutter** for developing cross-platform mobile apps with a native feel  <br><br>I'm a big fan of **Gintama** — yes, the anime that's equal parts nonsense and deep life lessons. If you know, you know.<br><br>Feel free to explore my pinned projects, and don’t hesitate to reach out if you'd like to collaborate or just say hello!</p>
 
 ###
 
@@ -74,13 +66,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezEkoArd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezEkoArd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RezEkoArd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RezEkoArd&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-![Snake](https://github.com/rezekoard/rezekoard/blob/main/assets/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezEkoArd/RezEkoArd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezEkoArd/RezEkoArd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezEkoArd/RezEkoArd/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
