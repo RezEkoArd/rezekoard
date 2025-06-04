@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Penting untuk izin push!
+  contents: write # Penting untuk izin push!
 
 jobs:
   generate-snake:
@@ -18,12 +18,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: output/github-contribution-grid-snake.svg  # Pastikan path ini match dengan README.md
+          svg_out_path: output/github-contribution-grid-snake.svg # Pastikan path ini match dengan README.md
 
       - name: Push Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git fetch origin
+          git reset --hard origin/main
           git add -A
           git commit -m "Update snake" || echo "No changes"
           git push
