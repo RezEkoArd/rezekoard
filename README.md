@@ -81,5 +81,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RezEkoArd/RezEkoArd/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/username/RezEkoArd/blob/output/github-contribution-grid-snake.svg)
+
 ###
