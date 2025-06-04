@@ -8,7 +8,15 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Fullstack Developer<br><br>I'm currently focused on building practical and real-world skills in **fullstack development** using:<br><br>- ⚙️ **Laravel** for building robust and scalable backend APIs  <br>- 🌐 **Svelte** (and occasionally React) for fast and modern frontend web applications  <br>- 📱 **Flutter** for developing cross-platform mobile apps with a native feel  <br><br>I'm a big fan of **Gintama** — yes, the anime that's equal parts nonsense and deep life lessons. If you know, you know.<br><br>Feel free to explore my pinned projects, and don’t hesitate to reach out if you'd like to collaborate or just say hello!</p>
+<p align="left">
+  👨‍💻 I'm a <strong>Fullstack Developer</strong><br><br>
+  I'm currently focused on building practical and real-world skills in <strong>fullstack development</strong> using:<br><br>
+  - ⚙️ <strong>Laravel</strong> for building robust and scalable backend APIs  <br>
+  - 🌐 <strong>Svelte</strong> (and occasionally React) for fast and modern frontend web applications  <br>
+  - 📱 <strong>Flutter</strong> for developing cross-platform mobile apps with a native feel  <br><br>
+  I'm a big fan of <strong>Gintama</strong> — yes, the anime that's equal parts nonsense and deep life lessons. If you know, you know.<br><br>
+  Feel free to explore my pinned projects, and don’t hesitate to reach out if you'd like to collaborate or just say hello!
+</p>
 
 ###
 
