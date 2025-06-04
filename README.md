@@ -81,6 +81,6 @@
 
 ###
 
-![Snake Animation](https://github.com/rezekoard/rezekoard/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/rezekoard/rezekoard/blob/main/assets/github-snake.svg)
 
 ###
